@@ -42,3 +42,5 @@ EOF
 cat <<EOF> /etc/ipsec.d/aws.secrets
 $leftid $right : PSK "password"
 EOF
+
+systemctl start ipsec & systemctl enable ipsec
