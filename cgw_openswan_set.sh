@@ -6,7 +6,7 @@ cat <<EOF> /etc/sysctl.conf
   net.ipv4.conf.default.accept_source_route = 0
   net.ipv4.conf.all.accept_redirects = 0
   net.ipv4.conf.all.send_redirects = 0
-   EOF
+EOF
 sysctl -p /etc/sysctl.conf
 
 printf "고객 게이트웨이 IP는> "
