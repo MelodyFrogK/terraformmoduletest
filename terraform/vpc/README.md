@@ -1,4 +1,6 @@
 ## 추가 설명
+- VPC 생성
+- IGW 생성
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
