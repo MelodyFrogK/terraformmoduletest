@@ -1,0 +1,5 @@
+pjt_name = "pjt_sydney"
+region = "ap-southeast-2"
+cidr_block = "10.1.0.0/16"
+az_a = "ap-southeast-2a"
+az_b = "ap-southeast-2b"

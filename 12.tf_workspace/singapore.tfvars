@@ -1,0 +1,5 @@
+pjt_name = "pjt_singapore"
+region = "ap-southeast-1"
+cidr_block = "10.1.0.0/16"
+az_a = "ap-southeast-1a"
+az_b = "ap-southeast-1b"

@@ -1,0 +1,7 @@
+pjt_name = "sydeny"
+region = "ap-southeast-1"
+cidr_block = "10.3.0.0/16"
+subnets_block = "10.3"
+ami = "ami-0f5f922f781854672"
+az_a = "ap-southeast-1a"
+az_b = "ap-southeast-1b"

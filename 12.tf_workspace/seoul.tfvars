@@ -1,0 +1,5 @@
+pjt_name = "pjt_seoul"
+region = "ap-northeast-2"
+cidr_block = "10.1.0.0/16"
+az_a = "ap-northeast-2a"
+az_b = "ap-northeast-2b"
